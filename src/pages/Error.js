@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Completed = () => {
+const Error = () => {
     return (
         <div>
-            Completed
+            error
         </div>
     )
 }
 
-export default Completed
+export default Error

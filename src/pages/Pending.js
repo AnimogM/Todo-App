@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Completed = () => {
+const Pending = () => {
     return (
         <div>
-            Completed
+            Pending
         </div>
     )
 }
 
-export default Completed
+export default Pending
